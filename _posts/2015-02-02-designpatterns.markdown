@@ -7,4 +7,4 @@ categories:
 
 ## 设计模式分类，实现及应用场景
 
-居然请参见[这里](https://github.com/tsinghualiji/design_pattern)
+具体内容请参见[这里](https://github.com/tsinghualiji/design_pattern).
