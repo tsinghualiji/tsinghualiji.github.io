@@ -7,4 +7,21 @@ sitemap:
     lastmod: 2014-09-07T16:31:30+05:30
 ---
 # About
-This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+
+- todo
+
+
+
+## Skills
+
+- Java, Desgin Pattern
+- JavaWeb
+- Struts2, Spring, Hibernate
+- Hadoop ecosystem
+
+
+## Experience
+
+###  2012.5 -- 2014.12 QE DEV @Adobe Scene7
+
+###  2010.7 -- 2012.5 QE @Lucent
