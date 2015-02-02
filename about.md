@@ -4,7 +4,7 @@ title: About
 ---
 # About
 
-Ji's on the way to Guru! 
+jGoogle's on the way to Guru! 
 
 ## Skills
 
