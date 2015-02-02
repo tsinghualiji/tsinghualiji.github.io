@@ -1,13 +1,8 @@
 ---
 layout: default
 ---
-
-<div class="post">
-    <div class="page-header">
-        <h1>{{ page.title }}{%if page.excerpt%}<br /><small>{{page.excerpt}}</small>{%endif%}</h1>
-    </div>
-    
-	<div class="entry">{{ content }}</div>
-
+<div id="home" class="grid post">
+	<div class="unit whole">
+		{{ content }}
+	</div>
 </div>
-
