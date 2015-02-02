@@ -22,5 +22,5 @@ sitemap:
 
 ## Experience
 
-－  2012.5 -- 2014.12 QE DEV @Adobe Scene7
-－  2010.7 -- 2012.5   QE @Lucent
+－  2012.5 to 2014.12 QE DEV @Adobe Scene7
+－  2010.7 to 2012.5   QE @Lucent
