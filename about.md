@@ -22,5 +22,5 @@ jGoogle's on the way to Guru!
 
 ## Education
 
-- 2014 to 2016  Tsinghua University | MEM
-- 2006 to 2010  China University Of Mining and Technology | MEM
+- 2014 to 2016  Tsinghua University Master of Enginerring Management
+- 2006 to 2010  China University Of Mining and Technology Bachelor of Compurter Sicence
