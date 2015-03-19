@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "数据结构与基础算法的Java实现"
-date:   2015-02-03 13:55:35
+title:  "MySQL创建表，增加约束，存储过程，触发器等"
+date:   2015-03-19 13:55:35
 categories:
 ---
 
-#                        MySQL 5                                         #
-# Project name:          Northwind                                       #
-# Author:                Valon Hoti                                      #
-# Created on:            2010-07-07 20:00                                #
-# ---------------------------------------------------------------------- #
+
 DROP DATABASE IF EXISTS northwind;
 
 CREATE DATABASE IF NOT EXISTS northwind;
